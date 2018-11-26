@@ -1,1 +1,1 @@
-An opinionated starter for using Gatsby v2 with React Context, tag-agnostic styled-components, page transitions and scroll events with IntersectionObserver.
+Floorball is alive and well in Melbourne and there are places where you can play, regardless if you are just playing for a bit of exercise and fun, or want to play competitively - for both men and women.

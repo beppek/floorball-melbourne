@@ -2,18 +2,18 @@
   "title": "Home",
   "content": "intro.md",
   "gallery": [{
-    "title": "React Context",
-    "copy": "For global styles.",
+    "title": "Glen Iris",
+    "copy": "Social floorball venue. Goalies play for free.",
     "image": "../images/gallery/react-context.jpg"
   },
   {
-    "title": "Page Transitions",
-    "copy": "Component-based for easy usage.",
+    "title": "Sunshine",
+    "copy": "Social floorball venue. Smaller goals on full size field. No boards.",
     "image": "../images/gallery/page-transitions.jpg"
   },
   {
-    "title": "Intersection Observer",
-    "copy": "Including a polyfill for Safari.",
+    "title": "Pakenham",
+    "copy": "Social floorball venue in woop woop.",
     "image": "../images/gallery/intersection-observer.jpg"
   }]
 }
