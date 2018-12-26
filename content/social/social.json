@@ -1,10 +1,10 @@
 {
-  "title": "Home",
-  "content": "intro.md",
+  "title": "Social Floorball",
+  "content": "content.md",
   "gallery": [{
     "title": "Glen Iris",
-    "copy": "Social floorball venue. Goalies play for free.",
-    "image": "../images/gallery/floorball-goalie.jpg"
+    "copy": "172 Burke Rd, Glen Iris. Price: $10 | Concession: $8 | Goalies: $0 | First time free.",
+    "image": "../images/gallery/glen-iris1.jpg"
   },
   {
     "title": "Sunshine",
@@ -12,7 +12,7 @@
     "image": "../images/gallery/floorball-ball.jpg"
   },
   {
-    "title": "Officer",
+    "title": "Pakenham",
     "copy": "Social floorball venue in woop woop.",
     "image": "../images/gallery/floorball-sticks-shoes.jpg"
   }]
